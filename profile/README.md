@@ -1,4 +1,7 @@
 # CROC: AI Agent For Secure Peer-to-Peer OTC Swaps on Avalanche
+<div align="center">
+<img src="./assets/banner.jpg"  alt="Bot Demo Screenshot" width="900" />
+</div>
 
 ## Overview
 
